@@ -5,9 +5,9 @@ activate source venv/Scripts/activate
 
 pip install -r requirements.txt
 
-generate ey througfh fernet or run generatekey.py
+generate key through fernet or run generatekey.py
 
-save the Fernet kry in .env file
+save the Fernet key in .env file
 
 now run encrypt .py to test encrypred password
 
